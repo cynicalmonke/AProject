@@ -1,0 +1,73 @@
+{
+    "AppConfig": {},
+    "UserData": {
+        "logged-in": false
+    },
+    "Collections": {
+        "Flowers": {
+            "name": "Flowers",
+            "content": []
+        },
+        "Dogs": {
+            "name": "Dogs",
+            "content": []
+        },
+        "Cats": {
+            "name": "Cats",
+            "content": []
+        },
+        "Logos": {
+            "name": "Logos",
+            "content": []
+        },
+        "Bags": {
+            "name": "Bags",
+            "content": []
+        },
+        "T-Shirts": {
+            "name": "T-Shirts",
+            "content": []
+        },
+        "Blankets": {
+            "name": "Blankets",
+            "content": []
+        },
+        "Caps": {
+            "name": "Caps",
+            "content": []
+        },
+        "Towels": {
+            "name": "Towels",
+            "content": []
+        },
+        "Sweaters": {
+            "name": "Sweaters",
+            "content": []
+        },
+        "Bird": {
+            "name": "Bird",
+            "content": []
+        },
+        "Plants": {
+            "name": "Plants",
+            "content": []
+        },
+        "Newly Imported": {
+            "name": "Newly Imported",
+            "content": []
+        },
+        "Matte": {
+            "name": "Matte",
+            "content": []
+        },
+        "CatDogs": {
+            "name": "CatDogs",
+            "content": []
+        },
+        "Cars": {
+            "name": "Cars",
+            "content": []
+        }
+    },
+    "Assets": {}
+}
